@@ -29,3 +29,8 @@ I learned many interesting thing about responsive web design and flexbox. I try 
 [Responsive_Web_Design_Fundamentals](task_responsive_web_design/Responsive_Web_Design_Fundamentals.png);
 [FLEXBOX_FROGGY(1)](task_responsive_web_design/FLEXBOX_FROGGY(1).png);
 [FLEXBOX_FROGGY(2)](task_responsive_web_design/FLEXBOX_FROGGY(2).png);
+## JS Basics
+In these courses  I repeated  a lot of  information about Javascript. It was great to practice Javascript in Algorithms.
+[Intro_to_JS(1)](task_js_basics/Intro_to_JS(1).png);
+[Intro_to_JS(2)](task_js_basics/Intro_to_JS(2).png);
+[freecodecamp_Algorithm](task_js_basics/freecodecamp_Algorithm.png);
