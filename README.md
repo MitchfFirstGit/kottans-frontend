@@ -13,3 +13,13 @@ I have never worked with Git. Everythink is new for me in this lesson. I'm going
 [GitHub&Collaboration(2)](task_git_collaboration/GitHub&Collaboration(2).png);
 [What_is_Version_Control(1)](task_git_collaboration/What_is_Version_Control(1).png);
 [What_is_Version_Control(2)](task_git_collaboration/What_is_Version_Control(2).png);
+
+## Intro to HTML and CSS
+In this course I refresh memories about HTML and CSS. 
+[Basics_of_CSS(1)](task_html_css_intro/Basics_of_CSS(1).png)
+[Basics_of_CSS(2)](task_html_css_intro/Basics_of_CSS(2).png)
+[Basics_of_HTML(1)](task_html_css_intro/Basics_of_HTML(1).png)
+[Basics_of_HTML(2)](task_html_css_intro/Basics_of_HTML(2).png)
+[Basics_of_HTML(3)](task_html_css_intro/Basics_of_HTML(3).png)
+[Intro_to_HTML&CSS(1)](task_html_css_intro/Intro_to_HTML&CSS(1).png)
+[Intro_to_HTML&CSS(2)](task_html_css_intro/Intro_to_HTML&CSS(2).png)
