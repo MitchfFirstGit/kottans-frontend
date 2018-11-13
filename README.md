@@ -23,3 +23,9 @@ In these courses  I repeated  a lot of  information. I will use what I've learne
 [Basics_of_HTML(3)](task_html_css_intro/Basics_of_HTML(3).png)
 [Intro_to_HTML&CSS(1)](task_html_css_intro/Intro_to_HTML&CSS(1).png)
 [Intro_to_HTML&CSS(2)](task_html_css_intro/Intro_to_HTML&CSS(2).png)
+
+## Responsive Web Design
+I learned many interesting thing about responsive web design and flexbox. I try to make some responsive site page to use my knowledge from these courses.
+[Responsive_Web_Design_Fundamentals](task_responsive_web_design/Responsive_Web_Design_Fundamentals.png)
+[FLEXBOX_FROGGY(1)](task_responsive_web_design/FLEXBOX_FROGGY(1).png)
+[FLEXBOX_FROGGY(2)](task_responsive_web_design/FLEXBOX_FROGGY(2).png)
