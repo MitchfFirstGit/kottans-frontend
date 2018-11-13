@@ -15,7 +15,7 @@ I have never worked with Git. Everythink is new for me in this lesson. I'm going
 [What_is_Version_Control(2)](task_git_collaboration/What_is_Version_Control(2).png);
 
 ## Intro to HTML and CSS
-In this courses  I repeated  a lot of  information. I will use what I've learned in these courses
+In these courses  I repeated  a lot of  information. I will use what I've learned in these courses
 [Basics_of_CSS(1)](task_html_css_intro/Basics_of_CSS(1).png)
 [Basics_of_CSS(2)](task_html_css_intro/Basics_of_CSS(2).png)
 [Basics_of_HTML(1)](task_html_css_intro/Basics_of_HTML(1).png)
