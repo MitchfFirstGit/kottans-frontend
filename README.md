@@ -39,7 +39,7 @@ In JavaScript and the DOM course I  remembered a lot of information about DOM. L
 [freecodecamp_Algorithm_Scripting_Challenges](task_js_dom/freecodecamp_Algorithm_Scripting_Challenges.png);
 [JavaScript_and_the_DOM](task_js_dom/JavaScript_and_the_DOM.png);
 ## Object Oriented JS
-In this task, I've learned a lot about Object Oriented JS and I've created my first game in JavaScript - Frogger. Also, I now know about a very interesting  site [codewars](codewars.com), there are a lot of interesting tasks. It was hard but also great.
+In this task, I've learned a lot about Object Oriented JS and I've created my first game in JavaScript - Frogger. Also, I now know about a very interesting  site [codewars](https://www.codewars.com/), there are a lot of interesting tasks. It was hard but also great.
 [codewars](task_js_oop/codewars.png);
 [Object_Oriented_JS(1)](task_js_oop/Object_Oriented_JS(1).png);
 [Object_Oriented_JS(2)](task_js_oop/Object_Oriented_JS(2).png);
