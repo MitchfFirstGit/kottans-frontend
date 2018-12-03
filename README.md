@@ -40,7 +40,7 @@ In JavaScript and the DOM course I  remembered a lot of information about DOM. L
 [JavaScript_and_the_DOM](task_js_dom/JavaScript_and_the_DOM.png);
 ## A Tiny JS World
 [Code base](https://github.com/MitchfFirstGit/a-tiny-JS-world/blob/gh-pages/index.js);
-Reviewed and approved by @<OleksiyRudenko>
+Reviewed and approved by @OleksiyRudenko
 It was awesome. I want to improve my existing code with OOP. Do - Learn - Improve -- it's a great method!
 ## Object Oriented JS
 In this task, I've learned a lot about Object Oriented JS and I've created my first game in JavaScript - Frogger. Also, I now know about a very interesting  site [codewars](https://www.codewars.com/), there are a lot of interesting tasks. It was hard but also great.
