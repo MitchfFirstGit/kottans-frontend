@@ -35,9 +35,12 @@ In these courses  I repeated  a lot of  information about Javascript. It was gre
 [Intro_to_JS(2)](task_js_basics/Intro_to_JS(2).png);
 [freecodecamp_Algorithm](task_js_basics/freecodecamp_Algorithm.png);
 ## DOM
-In JavaScript and the DOM course I  remembered a lot of information about DOM. Learn.freecodecamp.org  it is great website, there is really hard Algorithms. I'm going to use this website in the future, that's realy interesting.
+In JavaScript and the DOM course I remembered a lot of information about DOM. Learn.freecodecamp.org  it is great website, there is really hard Algorithms. I'm going to use this website in the future, that's realy interesting.
 [freecodecamp_Algorithm_Scripting_Challenges](task_js_dom/freecodecamp_Algorithm_Scripting_Challenges.png);
 [JavaScript_and_the_DOM](task_js_dom/JavaScript_and_the_DOM.png);
+### Practical task
+[Code base](https://github.com/MitchfFirstGit/site); Reviewed and approved by @zonzujiro
+I think it was a great expirience for me to complete this task.
 ## A Tiny JS World
 [Code base](https://github.com/MitchfFirstGit/a-tiny-JS-world/blob/gh-pages/index.js);
 Reviewed and approved by @OleksiyRudenko
