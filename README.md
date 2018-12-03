@@ -39,8 +39,8 @@ In JavaScript and the DOM course I remembered a lot of information about DOM. Le
 [freecodecamp_Algorithm_Scripting_Challenges](task_js_dom/freecodecamp_Algorithm_Scripting_Challenges.png);
 [JavaScript_and_the_DOM](task_js_dom/JavaScript_and_the_DOM.png);
 ### Practical task
-[Code base](https://github.com/MitchfFirstGit/site); Reviewed and approved by @zonzujiro
-I think it was a great expirience for me to complete this task.
+[Code base](https://github.com/MitchfFirstGit/site); Reviewed and approved by @zonzujiro. 
+ I think it was a great expirience for me to complete this task.
 ## A Tiny JS World
 [Code base](https://github.com/MitchfFirstGit/a-tiny-JS-world/blob/gh-pages/index.js);
 Reviewed and approved by @OleksiyRudenko
@@ -51,5 +51,10 @@ In this task, I've learned a lot about Object Oriented JS and I've created my fi
 [Object_Oriented_JS(1)](task_js_oop/Object_Oriented_JS(1).png);
 [Object_Oriented_JS(2)](task_js_oop/Object_Oriented_JS(2).png);
 [Object_Oriented_JS(3)](task_js_oop/Object_Oriented_JS(3).png);
+ ## Memory Pair Game
+ [Demo](https://mitchffirstgit.github.io/Memory_Game_Kottans/)||  [Code base](https://github.com/MitchfFirstGit/Memory_Game_Kottans).  
+ Reviewed and approved by @zonzujiro. 
+ In this task new for me was CSS3 Transitions and Flip Animation.  I will use what I've learned in these task.
+
 
 
