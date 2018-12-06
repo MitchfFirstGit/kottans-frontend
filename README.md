@@ -51,6 +51,9 @@ In this task, I've learned a lot about Object Oriented JS and I've created my fi
 [Object_Oriented_JS(1)](task_js_oop/Object_Oriented_JS(1).png);
 [Object_Oriented_JS(2)](task_js_oop/Object_Oriented_JS(2).png);
 [Object_Oriented_JS(3)](task_js_oop/Object_Oriented_JS(3).png);
+## 9. OOP Exercise
+[Code base](https://github.com/MitchfFirstGit/frontend-2019-homeworks/blob/OOP_Exercise/submissions/MitchfFirstGit/OOP_Exercise/index.js);
+Reviewed and approved by @OleksiyRudenko.  I've learned a lot about OOP JS in this task, also I improved my existing  A Tiny JS World task and my code looks very well now.
  ## 11. Memory Pair Game
  [Demo](https://mitchffirstgit.github.io/Memory_Game_Kottans/)||  [Code base](https://github.com/MitchfFirstGit/Memory_Game_Kottans).  
  Reviewed and approved by @zonzujiro. 
