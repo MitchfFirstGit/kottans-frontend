@@ -51,6 +51,9 @@ In this task, I've learned a lot about Object Oriented JS and I've created my fi
 [Object_Oriented_JS(1)](task_js_oop/Object_Oriented_JS(1).png);
 [Object_Oriented_JS(2)](task_js_oop/Object_Oriented_JS(2).png);
 [Object_Oriented_JS(3)](task_js_oop/Object_Oriented_JS(3).png);
+### Arcade game Frogger
+[Code base](https://github.com/MitchfFirstGit/frontend-2019-homeworks/tree/task_js_oop/submissions/MitchfFirstGit/Object_Oriented_JavaScript);
+Reviewed and approved by @OleksiyRudenko. In this task, I learned a lot of interesting things and I improved my OOP skills  It was a great experience for me!
 ## 9. OOP Exercise
 [Code base](https://github.com/MitchfFirstGit/frontend-2019-homeworks/blob/OOP_Exercise/submissions/MitchfFirstGit/OOP_Exercise/index.js);
 Reviewed and approved by @OleksiyRudenko.  I've learned a lot about OOP JS in this task, also I improved my existing  A Tiny JS World task and my code looks very well now.
