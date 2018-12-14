@@ -59,10 +59,20 @@ Reviewed and approved by @OleksiyRudenko. In this task, I learned a lot of inter
 ## 9. OOP Exercise
 [Code base](https://github.com/MitchfFirstGit/frontend-2019-homeworks/blob/OOP_Exercise/submissions/MitchfFirstGit/OOP_Exercise/index.js);
 Reviewed and approved by @OleksiyRudenko.  I've learned a lot about OOP JS in this task, also I improved my existing  A Tiny JS World task and my code looks very well now.
+ ## 10. Offline Web Applications
+ [Offline Web Applications](task_offline_web_app/offline_web_app.png);
+This was a very useful lesson for me. I learned a lot of interesting things. In the future, I would like to deepen my knowledge of this topic.
  ## 11. Memory Pair Game
  [Demo](https://mitchffirstgit.github.io/Memory_Game_Kottans/)||  [Code base](https://github.com/MitchfFirstGit/Memory_Game_Kottans).  
  Reviewed and approved by @zonzujiro. 
  In this task new for me was CSS3 Transitions and Flip Animation.  I will use what I've learned in these task.
+ ## 13. Friends App
+ [Demo](https://mitchffirstgit.github.io/Friends-App/)||[Code base](https://github.com/MitchfFirstGit/frontend-2019-homeworks/tree/friends_app/submissions/MitchfFirstGit/Friends_App). 
+  Reviewed and approved by @zonzujiro. 
+ It was a great experience for me, I made the first step towards working with the API.In the future, I would like to  get more experience work with API.
+  
+ 
+
 
 
 
