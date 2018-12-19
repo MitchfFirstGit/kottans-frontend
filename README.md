@@ -66,6 +66,11 @@ This was a very useful lesson for me. I learned a lot of interesting things. In 
  [Demo](https://mitchffirstgit.github.io/Memory_Game_Kottans/)||  [Code base](https://github.com/MitchfFirstGit/Memory_Game_Kottans).  
  Reviewed and approved by @zonzujiro. 
  In this task new for me was CSS3 Transitions and Flip Animation.  I will use what I've learned in these task.
+ ## 12. Website Performance Optimization
+ [Website Performance Optimization](task_website_performance/Website_Performance_Optimization.png);
+  [Browser Rendering Optimization](task_website_performance/Browser_Rendering_Optimization.png);
+  [Responsive Images](task_website_performance/Responsive_Images.png);
+  It is a very helpful courses. Responsive Images  course was very interesting for me, Website Performance Optimization and Browser Rendering Optimization courses were a bit harder to understand for me. I think it is a very important topic  in the professional life of the web developer.
  ## 13. Friends App
  [Demo](https://mitchffirstgit.github.io/Friends-App/)||[Code base](https://github.com/MitchfFirstGit/frontend-2019-homeworks/tree/friends_app/submissions/MitchfFirstGit/Friends_App). 
   Reviewed and approved by @zonzujiro. 
